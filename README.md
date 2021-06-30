@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tungchu1905, i'm a 3-year college student.
 - 👀 I’m interested in game forsure, i also try to make 2D game in unity but now im just a beginner
-- 🌱 I’m currently learning CSharp, javaweb, beginning learning unity game by c#
+- 🌱 I’m currently learning CSharp, javaweb
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chutrieutung2000@gmail.com
 
