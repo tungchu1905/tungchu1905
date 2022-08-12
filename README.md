@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tungchu1905, i'm a 3-year college student.
+- 👋 Hi, I’m @tungchu1905, i'm a 4-year college student.
 - 👀 I’m interested in game forsure, i also try to make 2D game in unity but now im just a beginner
 - 🌱 I’m currently learning CSharp, java, javaweb
 - 💞️ I’m looking to collaborate on ...
