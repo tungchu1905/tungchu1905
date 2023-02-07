@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tungchu1905, i'm a 4-year college student.
+- 👋 Hi, I’m @tungchu1905
 - 👀 I’m interested in 
 - 🌱 I’m currently learning CSharp, java, nodejs, reactjs
 - 💞️ I’m looking to collaborate on ...
